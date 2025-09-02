@@ -1,10 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Rectangle from './components/Rectangle'
-import Square from './components/Square'
-import Circle from './components/Circle'
 import Lastrow from './components/Lastrow'
-import Middlerow from './components/Middlerow'
 import Thirdrow from './components/Thirdrow'
 import Firstrow from './components/Firstrow'
 
@@ -17,12 +13,12 @@ function App() {
   style={{
     display: 'flex',
     flexWrap: 'wrap',
-    justifyContent: 'space-evenly',
+    justifyContent: 'flex-start',
     gap: '10px',
     border: '5px solid red',
     borderRadius: '10px',
     padding: '5px',
-    maxWidth: '75%', // Adjust based on item width
+    maxWidth: '73%', 
     margin: '0 auto',
     backgroundColor:'whitesmoke'
   }}
