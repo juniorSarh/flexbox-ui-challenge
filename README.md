@@ -1,4 +1,4 @@
-
+<img src="https://socialify.git.ci/juniorSarh/flexbox-ui-challenge/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="flexbox-ui-challenge" width="640" height="320" />
 
 Here’s a polished README you can drop into the repo. If you want a downloadable file, say the word and I’ll save it as `README.md` for you.
 
